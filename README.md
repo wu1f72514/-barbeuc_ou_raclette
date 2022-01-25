@@ -1,1 +1,1 @@
-# -barbeuc_ou_raclette
+# barbeuc_ou_raclette
